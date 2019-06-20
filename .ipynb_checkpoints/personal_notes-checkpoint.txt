@@ -1,3 +1,0 @@
-
-RGB to CMYK and vice versa
-https://stackoverflow.com/questions/14088375/how-can-i-convert-rgb-to-cmyk-and-vice-versa-in-python
